@@ -19,4 +19,5 @@ for i in range(int(rozmezi[0]),int(rozmezi[1])): # Čísla v závorce = libovoln
         print(url)
         pocet +=1
 
-print("\nNalezeno " + str(pocet) + " výsledků")
+print("\nNalezeno " + str(pocet) + " výsledků\n")
+input("Pro ukončení stiskněte Enter")
